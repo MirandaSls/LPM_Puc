@@ -22,9 +22,11 @@
  * SOFTWARE.
  */
 
-/** "Teste" em um main que exibe dados em console. Ainda aprenderemos a fazer testes melhores...  */
+/**
+ * "Teste" em um main que exibe dados em console. Ainda aprenderemos a fazer
+ * testes melhores...
+ */
 public class Principal {
-    
     public static void main(String[] args) {
         Produto meuProduto = new Produto();
         double precoLote = 0d;
